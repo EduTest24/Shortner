@@ -4,7 +4,7 @@ const About = () => {
       <h1 className="text-4xl font-bold mb-6">About BitLinks</h1>
       <p className="text-lg max-w-3xl mx-auto text-gray-700">
         BitLinks is a simple and efficient URL shortening service that helps you
-        turn long, messy links into clean, shareable ones. Whether you're a
+        turn long, messy links into clean, shareable ones. Whether youapos;re a
         developer, marketer, or everyday user, our tool is built to save you
         time and make sharing links more elegant.
       </p>

@@ -21,7 +21,7 @@ const Custom404 = () => {
         transition={{ delay: 0.3, duration: 0.6 }}
         className="text-5xl font-bold text-purple-800 mb-4"
       >
-        404 – Page Not Found
+        404 Page Not Found
       </motion.h1>
 
       <motion.p
@@ -30,7 +30,7 @@ const Custom404 = () => {
         transition={{ delay: 0.5, duration: 0.6 }}
         className="text-lg text-gray-700 mb-8 max-w-md"
       >
-        Oops! The page you are looking for doesn't exist. It might have been
+        Oops! The page you are looking for doesnapos;t exist. It might have been
         moved or deleted.
       </motion.p>
 
